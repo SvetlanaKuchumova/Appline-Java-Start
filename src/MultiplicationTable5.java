@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplicationTable {
+public class MultiplicationTable5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Input a number: ");
