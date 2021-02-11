@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalcAverage5 {
+public class CalcAverage6 {
     public static void main(String[] args) {
 
         System.out.print("Input 3 numbers: ");
