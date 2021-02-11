@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CompareWithConstants6 {
+public class CompareWithConstants7 {
     public static void main(String[] args) {
 
         //Constants
